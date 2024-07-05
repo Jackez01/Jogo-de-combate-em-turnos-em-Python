@@ -1,0 +1,1 @@
+[] No programa foi usado heranças, encapsulamento e polimorfismo
